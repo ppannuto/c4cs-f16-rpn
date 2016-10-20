@@ -1,4 +1,7 @@
 # c4cs-f16-rpn
+
+[![Build Status](https://travis-ci.org/ppannuto/c4cs-f16-rpn.svg?branch=master)](https://travis-ci.org/ppannuto/c4cs-f16-rpn)
+
 Demonstration repository for c4cs f16
 
 This repository is part of the [Computing for Computer Scientists](https://c4cs.github.io)
